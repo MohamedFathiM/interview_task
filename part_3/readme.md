@@ -14,11 +14,15 @@ Coding exercises
 
 # Screens
 
-<div><img src="/images/desktop.PNG" alt="Data Structure Diagram"
-  height="400" style="display:block;margin:0 auto"><div>
+## Desktop
 
-<div><img src="/images/mobile.PNG" alt="Data Structure Diagram"
-  height="400" style="display:block;margin:0 auto"><div>
+<div><img src="public/images/desktop.PNG" alt="Data Structure Diagram"
+  height="400" style="display:block;margin:30 auto"><div>
+
+## Mobile
+
+<div><img src="public/images/mobile.PNG" alt="Data Structure Diagram"
+  height="400" style="display:block;margin:30 auto"><div>
 
 # To Run Project :
 
