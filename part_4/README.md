@@ -13,6 +13,8 @@ Full Crud - Add, Edit , Delete and index
 ```shell
 git clone https://github.com/MohamedFathiM/interview_task.git
 
+cd part_4
+
 composer run setup
 ```
 
